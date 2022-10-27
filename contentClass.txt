@@ -1,0 +1,21 @@
+CONTROLLED COMPONENTS VS UNCONTROLLED COMPONENTS
+
+Controlled ->  É quando se mantem em tempo real a informacao do input do usuario
+                  guardada no estado da aplicação
+
+                  -Usamos em formularios simples com poucos campos
+
+Uncontrolled -> Um outro modelo de trabalho (que não vale somente para formularios)
+                mas principalmente em formularios. O Uncontrolled nada mais é do que,
+                a gente buscar a informação do valor do input somente quando precissarmos dela.
+
+                - Usamos em telas que há muitos inputs, formularios grandes, e para que o react não
+                  rendeizer todos as campos novamente perdendo perfomance da aplicação, se deixa de
+                  maneira não controlada
+
+
+/**Interface e type**/
+
+Interface: Usar Interface quando for definir o objeto de validação
+
+type: Quando vou criar uma tipagem a partir de outra referência(de outra variavel ou qualquer coisa assim)
