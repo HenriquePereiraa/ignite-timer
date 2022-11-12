@@ -30,3 +30,7 @@ PROP DRILLING -> Quando a gente tem  MUITAS propriedades APENAS para comunicaç�
 CONTEXT API -> Permite compartilhar informações entre VÁRIOS componentes ao mesmo tempo
 
 **/
+
+Biblioteca immerJs -> É utilizada para trabalhar com dados imutaveis dentro do reactjs
+                      O immer ns permitir trabalhar cm estruturas de dados imutaveis como se essas estruturas
+                      não fosse imutaveis.
